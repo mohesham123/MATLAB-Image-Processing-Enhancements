@@ -41,11 +41,3 @@ This project is implemented in MATLAB. Ensure you have the following MATLAB tool
    - Stage 3: Removal of sharpening artifacts using a median filter.
    - Stage 4: Histogram equalization to enhance the contrast.
 4. View the intermediate results after each stage and the final processed image.
-
-## Example
-
-### Original Image:
-![Original Image](./input_1.png)
-
-### Final Processed Image:
-- The final image will have reduced noise, improved sharpness, and enhanced contrast after histogram equalization.
