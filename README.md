@@ -17,6 +17,8 @@ This project is divided into four stages:
 
 4. **Stage 4: Histogram Equalization**
    - The image is converted to grayscale (if it is not already) and histogram equalization is applied to improve the image's contrast.
+     
+![Image_Processing_01](https://github.com/user-attachments/assets/31f8bcb2-d478-4dce-83b7-8d9bd3af9696)
 
 ## Project Files
 
